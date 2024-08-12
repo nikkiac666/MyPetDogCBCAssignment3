@@ -1,2 +1,2 @@
-# MyPetDogCBCAssignment3
-MyPetDog assignment 3
+# CellClassAssignment3
+Virtual stem cell assignment 3
